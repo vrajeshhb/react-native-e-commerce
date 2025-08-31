@@ -1,4 +1,4 @@
-<img width="300" height="450" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 36" src="https://github.com/user-attachments/assets/f3455945-0c8a-497b-aa70-0d2914800f2e" />
+<img width="250" height="450" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 36" src="https://github.com/user-attachments/assets/f3455945-0c8a-497b-aa70-0d2914800f2e" />
 <img width="500" height="450" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 14" src="https://github.com/user-attachments/assets/3e2b3a51-1dcc-40db-91d4-e6f6b5fefee1" />
 <img width="500" height="450" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 27" src="https://github.com/user-attachments/assets/910aaabf-2fee-4205-84da-81900472d6c0" />
 <img width="500" height="450" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 32" src="https://github.com/user-attachments/assets/4991fac1-7449-49e9-b39f-a5915baaf505" />
