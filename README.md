@@ -1,50 +1,9 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 36" src="https://github.com/user-attachments/assets/f3455945-0c8a-497b-aa70-0d2914800f2e" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 14" src="https://github.com/user-attachments/assets/3e2b3a51-1dcc-40db-91d4-e6f6b5fefee1" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 27" src="https://github.com/user-attachments/assets/910aaabf-2fee-4205-84da-81900472d6c0" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 32" src="https://github.com/user-attachments/assets/4991fac1-7449-49e9-b39f-a5915baaf505" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 50 38" src="https://github.com/user-attachments/assets/932720aa-51e9-45f9-893d-9e32fd8ecac6" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 50 44" src="https://github.com/user-attachments/assets/92b3a8ce-7a96-456b-9dcd-419ab19cfece" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 50 49" src="https://github.com/user-attachments/assets/e9c0e1c5-3298-4d19-bf3c-863b3b1a44ef" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 50 58" src="https://github.com/user-attachments/assets/95007216-5aff-4cfe-988e-aef4fddc47cd" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-08-31 at 22 51 09" src="https://github.com/user-attachments/assets/a72f3b07-565b-44cf-ace3-296d05e4b3a6" />
